@@ -1,0 +1,17 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+.UserContainer {
+  margin-top: 20px;
+}
+
+.FullName {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.Email {
+  font-size: 1.2rem;
+}
